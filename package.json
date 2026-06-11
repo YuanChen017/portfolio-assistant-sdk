@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-assistant-sdk",
+  "name": "@yuanchen710/portfolio-assistant-sdk",
   "version": "1.0.0",
   "description": "Plug-and-play AI chatbot widget for portfolio sites — resume upload, job match analysis, streaming responses",
   "type": "module",
