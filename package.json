@@ -1,11 +1,26 @@
 {
   "name": "portfolio-assistant-sdk",
   "version": "1.0.0",
-  "description": "Reusable AI chatbot widget SDK for Yuan Chen's portfolio",
+  "description": "Plug-and-play AI chatbot widget for portfolio sites — resume upload, job match analysis, streaming responses",
   "type": "module",
   "main": "dist/portfolio-assistant-sdk.umd.cjs",
   "module": "dist/portfolio-assistant-sdk.js",
   "types": "dist/index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "chatbot",
+    "ai",
+    "widget",
+    "react",
+    "resume",
+    "llm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuanChen/portfolio-assistant-sdk.git"
+  },
+  "homepage": "https://github.com/YuanChen/portfolio-assistant-sdk#readme",
   "exports": {
     ".": {
       "import": "./dist/portfolio-assistant-sdk.js",
